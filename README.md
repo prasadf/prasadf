@@ -1,5 +1,5 @@
 ### Hi, I am Prasad 👋
-A Software Engineer in making.
+As a Software Engineer at the University of South Wales, I have developed deep expertise in web development alongside proficiency in a wide range of programming languages and frameworks. Holding a Master's degree in Multimedia and Internet Computing from Loughborough University, I also possess a Microsoft Certified: Azure Fundamentals credential.
 <!--
 **prasadf/prasadf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [DevOps Future](2430a259-platform-1024x576.jpg)
